@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Command](README.md)
-* [Unix/Linux](linux/README.md)
+* [Linux](linux/README.md)
   * [ab - Apache服务器的性能测试工具](linux/ab.md)  
   * [accept - 指示打印系统接受发往指定目标打印机的打印任务](linux/accept.md)  
   * [ack - 比grep好用的文本搜索工具](linux/ack.md)  
