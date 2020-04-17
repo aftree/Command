@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Command](README.md)
 * [Linux](linux/README.md)
   * [ab - Apache服务器的性能测试工具](linux/ab.md)
   * [accept - 指示打印系统接受发往指定目标打印机的打印任务](linux/accept.md)
