@@ -1,2 +1,2 @@
-# Command手册
+# Command
 
